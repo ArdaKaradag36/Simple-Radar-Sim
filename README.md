@@ -27,10 +27,12 @@ Bu projeyi geliştirirken şu kütüphanelerden faydalandım:
 
 ### 1. Radar Arayüzü (Canlı Simülasyon)
 Sistemin çalıştığı anki radar ekranı. Kırmızı alanlar yapay zeka tarafından "Tehdit Bölgesi", yeşil alanlar "Güvenli Bölge" olarak belirlenmiştir. Mavi çarpı işareti (X) anomali tespitini gösterir.
+
 ![Canlı Radar Arayüzü](assets/1.png)
 
 ### 2. Kara Kutu Kayıtları (Log Dosyası)
 Sistem çalışırken arka planda otomatik olarak oluşturulan ve her taramanın özetini içeren metin belgesi.
+
 ![Kara Kutu Not Defteri](assets/2.png)
 
 ## 💿 Nasıl Çalıştırılır?
@@ -53,3 +55,4 @@ python interface.py
 Bu proje **eğitim ve hobi amaçlı** geliştirilmiştir. Veriler tamamen sentetiktir (rastgele üretilmiştir) ve gerçek dünya senaryolarını birebir yansıtmayabilir.
 
 **Geliştirici:** Arda Karadağ | Öğrenci Projesi
+
