@@ -33,9 +33,23 @@ Sistemin çalıştığı anki radar ekranı. Kırmızı alanlar yapay zeka taraf
 Sistem çalışırken arka planda otomatik olarak oluşturulan ve her taramanın özetini içeren metin belgesi.
 ![Kara Kutu Not Defteri](assets/2.png)
 
-
 ## 💿 Nasıl Çalıştırılır?
 
 1. Gerekli kütüphaneleri yükleyin:
 ```bash
 pip install -r requirements.txt
+
+```
+
+2. Simülasyonu başlatın:
+
+```bash
+python interface.py
+
+```
+
+## 📝 Not
+
+Bu proje **eğitim ve hobi amaçlı** geliştirilmiştir. Veriler tamamen sentetiktir (rastgele üretilmiştir) ve gerçek dünya senaryolarını birebir yansıtmayabilir.
+
+**Geliştirici:** Arda Karadağ | Öğrenci Projesi
