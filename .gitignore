@@ -1,0 +1,16 @@
+# Sanal Ortam (En önemlisi bu, yükleme sakın)
+venv/
+
+# Python Çöpleri
+__pycache__/
+
+# Exe oluştururken çıkanlar
+build/
+dist/
+*.spec
+
+# Log dosyaları
+*.txt
+
+# VS Code ayarları (Varsa)
+.vscode/
